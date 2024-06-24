@@ -1,0 +1,10 @@
+Java: More verbose. Requires explicit type declarations and more boilerplate code.
+      Primarily object-oriented. Introduced functional programming features in Java 8 (like lambdas and the Stream API).
+     Statically typed with explicit type declarations.
+                       int number = 5;
+      
+
+Scala: More concise and expressive. Uses type inference to reduce boilerplate code.
+       Combines object-oriented and functional programming paradigms. Encourages immutability and first-class functions.
+       Statically typed with advanced type inference, allowing concise code without sacrificing type safety.
+                val number = 5
