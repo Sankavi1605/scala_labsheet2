@@ -20,8 +20,7 @@ object ex4{
        println(profit(25))
        println(profit(30))
        println(profit(35))
-       println(profit(40))
-         
+       println(profit(40))     
 
    }
 }
